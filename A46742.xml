@@ -1,0 +1,369 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the assizes held in Warwick, March the nineteenth 1682/3 by Samuel Jemmat ...</title>
+            <author>Jemmat, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46742</idno>
+            <idno type="STC">Wing J550</idno>
+            <idno type="STC">ESTC R34479</idno>
+            <idno type="EEBO-CITATION">14450049</idno>
+            <idno type="OCLC">ocm 14450049</idno>
+            <idno type="VID">102376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102376)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1061:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the assizes held in Warwick, March the nineteenth 1682/3 by Samuel Jemmat ...</title>
+                  <author>Jemmat, Samuel.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ... for George Teonge ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Chronicles, 2nd, XIX, 6 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102376:1"/>
+            <pb facs="tcp:102376:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED at the Aſsizes held in WARWICK. MARCH <hi>the Nineteenth,</hi> 1682/3.</p>
+            <p>By SAMUEL JEMMAT <hi>M. A.</hi> ſometimes Fellow of <hi>Vniverſity</hi> Colledge <hi>OXON.</hi> now Vicar of St. <hi>Nicholas</hi>'s Church in the Borough of <hi>WARWICK.</hi>
+            </p>
+            <p>OXFORD, Printed by <hi>Leonard Lichfield,</hi> Printer to the Univerſity, for <hi>George Teonge,</hi> Bookſeller in <hi>Warwick.</hi> 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:102376:2"/>
+            <pb facs="tcp:102376:2"/>
+            <head>To the Worſhipful <hi>THOMAS LUCY</hi> of <hi>CHARLECOTE</hi> Eſquire, <hi>HIGH SHERIFFE</hi> of the County of <hi>Warwick.</hi>
+            </head>
+            <p>THere are three things, which, if univer<g ref="char:EOLhyphen"/>ſally conjoyn'd, would certainly make this Nation happy: The juſt Awe and Reverence of the Divine Nature: Loyalty to the King, God's immediate Vice-gerent upon Earth: And the due Execution of Juſtice, for the terror of evil doers, and the praiſe of them that do well. The firſt would make them good Chriſtians; the ſecond would make them good Subjects; and the third, would either perſwade, or force them to be good Men. In order to the attaining of theſe ends, I have made it my buſineſs, ac<g ref="char:EOLhyphen"/>cording to my ſlender capacity, to evidence that there is a God, who ruleth over the higheſt; and that He is ſo far graciouſly pleaſed to promote the good of Humane ſociety, as to make Govern<g ref="char:EOLhyphen"/>ment his own Ordinance; that they, who are
+<pb facs="tcp:102376:3"/>
+Subjects, are bound to be obedient, and loyal, by God's authority; and that they, who re<g ref="char:EOLhyphen"/>preſent our gracious Sovereign in the high ſeats of Judicature, are obliged to fidelity, by the greateſt Commands and Encouragements.</p>
+            <p>SIR, being ſelected, by Your undeſerved fa<g ref="char:EOLhyphen"/>vour, to be your Chaplain, at this remarkable time, I was perſwaded, that I could no way better publiſh the true ſentiments of your Loy<g ref="char:EOLhyphen"/>al heart, or diſcharge my Own Duty, than by endeavouring to inſtill into the minds of my Auditory theſe weightier matters of the Royal Law. If I have, in the leaſt degree, promoted the Honour of God, and the King; ſatisfied your Self; confirmed any true Chriſtians in their juſt ſentiments; and convinced, or confuted any ſeditious, Anarchical ſpirits; I have com<g ref="char:EOLhyphen"/>paſſed my end, ſhall give God the glory, and remain,</p>
+            <closer>
+               <salute>Honoured SIR,</salute>
+               <signed>Your moſt Humble and Faithful Servant, SAMUEL JEMMAT.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:102376:3"/>
+            <head>2 CHRON. 19.6. And ſaid to the Judges, take heed what ye do; for ye judge not for man, but for the Lord; who is with you in the Judgment.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>Ehoſhaphat</hi> was one of the beſt of all the Kings of <hi>Ju<g ref="char:EOLhyphen"/>dah;</hi> it having pleaſed the Spirit of God to record it of him, about the beginning of his Reign,<note n="a" place="margin">2 Chron. 17.3, 4.</note> 
+               <hi>that he walked in the firſt ways of his Father</hi> David, <hi>and ſought not unto</hi> Baalim; <hi>but ſought to the Lord God of his Fathers, and walked in his commandments, and not after the doings of</hi> Iſrael. And afterwards,
+<pb n="2" facs="tcp:102376:4"/>
+towards his latter end, the ſame ſpirit teſti<g ref="char:EOLhyphen"/>fies,<note n="b" place="margin">2 Chr. 20.32.</note> 
+               <hi>that he walked in the way of</hi> Aſa, <hi>his Father, and departed not from it, doing that which was right in the ſight of the Lord.</hi>
+            </p>
+            <p>And on the other ſide, He only char<g ref="char:EOLhyphen"/>geth him with breaking Leagues with<note n="c" place="margin">2 Chr. 18.3.</note> 
+               <hi>Ahab,</hi> and<note n="d" place="margin">2 Chr. 20.3.</note> 
+               <hi>Ahaziah,</hi> two wicked Kings of <hi>Iſrael,</hi> (which, according to humane po<g ref="char:EOLhyphen"/>licy, might ſeem agreeable enough with the reaſons of State) and for not removing the High places,<note n="e" place="margin">2 Chr. 20.33.</note> 
+               <hi>which the people ſtill had recourſe unto, having not throughly prepared their hearts to the God of their Fathers.</hi>
+            </p>
+            <p>By all which it is intimated, (though his Predeceſſors had their failings) yet He, in the beginning, progreſs, and end of his reign was highly commendable. That he had a conſtant reſpect unto the holy com<g ref="char:EOLhyphen"/>mandments of God, and made them the rule of his own life, as well as the Govern<g ref="char:EOLhyphen"/>ment
+<pb n="3" facs="tcp:102376:4"/>
+of his Kingdom. The conſequent whereof was this, that he did more in the re<g ref="char:EOLhyphen"/>formation both of Civil and Eccleſiastical affairs, than any that had gone before him, ſince the days of <hi>David.</hi>
+            </p>
+            <p>The words, which I have read, are part of the charge, which this good King gave to the Judges commiſsioned by himſelf: And therefore, from them, we may ratio<g ref="char:EOLhyphen"/>nally expect to learn ſome of the main and principal duties, which concern all thoſe, who live in any degree of Eminency, or Authority, either in Church or State: and more eſpecially, thoſe that are in office, ap<g ref="char:EOLhyphen"/>pertaining to Juſtice. This good King, be<g ref="char:EOLhyphen"/>ing dead, yet ſpeaks, and that aloud in the words of the Text: <hi>ſaying to the Judges, take heed what ye do, for ye judge not for man, but for the Lord, who is with you in the judgment.</hi>
+            </p>
+            <p>Which words preſent us with four re<g ref="char:EOLhyphen"/>markable, and profitable truths. The two
+<pb n="4" facs="tcp:102376:5"/>
+firſt of which, ought to be of general influ<g ref="char:EOLhyphen"/>ence; and the two latter principally con<g ref="char:EOLhyphen"/>cern thoſe Sages, which are in Commiſſion. They are theſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Truth </seg>I</label> That the primary ſource, and original of Judgment, is God. Though Judges are choſen, commiſsioned by, and must give their accounts to the King; yet <hi>they judge not for man, but for the Lord.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Truth </seg>II</label> That the Kings of the earth are the ſe<g ref="char:EOLhyphen"/>condary ſprings, and fountains of Juſtice. Next, and immediately under God, judg<g ref="char:EOLhyphen"/>ment flows from them. And therefore the King, in the Text, gives his command to the Judges, in theſe words, <hi>He ſaid to the Judges.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Truth </seg>III</label> That it is highly incumbent, upon all Judges, to be moſt critically cautious, and careful: Both God, and the King ſay to them, <hi>take heed what you do.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Truth </seg>IV</label> That all they, who are duly advanced to ſuch eminent places of truſt, and dignity,
+<pb n="5" facs="tcp:102376:5"/>
+have the greateſt motives in the world, to be faithful in the performance of their duty; and that, <hi>becauſe God is with them in the judgment.</hi>
+            </p>
+            <p>I begin with the firſt of theſe, <hi>viz.</hi>
+            </p>
+            <p>That the primary ſource, and original of <label type="milestone">
+                  <seg type="milestoneunit">Truth </seg>I</label>
+Judgment is God. Though Judges are cho<g ref="char:EOLhyphen"/>ſen, commiſsioned by, and muſt give their accounts to the King; yet <hi>they judge not for man, but for God.</hi>
+            </p>
+            <p>I am not ignorant, that there were two ſorts of Judges, among themſelves, in the days of <hi>Jehoſhaphat:</hi> ſuch as were con<g ref="char:EOLhyphen"/>cern'd in Eccleſiaſtical, and ſuch as were intruſted only with Civil affairs. The con<g ref="char:EOLhyphen"/>ſtitution of both is manifest from <hi>verſ. 11.</hi> of this chapter, where the King declares: <hi>Behold,</hi> Amariah, <hi>the chief Prieſt, is over you in all matters of the Lord: and</hi> Zebediah, <hi>the ſon of</hi> Iſhmael, <hi>the Ruler of the houſe of</hi> Judah, <hi>for all the King's matters.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:102376:6"/>Yet do I not think it rational, for any man, ſo to appropriate <hi>Eccleſiaſtical af<g ref="char:EOLhyphen"/>fairs to the Lord,</hi> as to exclude him from his interest, in thoſe that are <hi>Civil:</hi> but have good reaſon to conclude, that the King ſpeaks to both ſorts of Judges, when he ſaith, <hi>ye judge not for man, but for the Lord.</hi> That <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which he makes uſe of, <hi>verſ. 10.</hi> by inſtancing in particu<g ref="char:EOLhyphen"/>lar caſes, ſufficiently proves what I ſay. <hi>And what cauſe ſoever ſhall come to you, of your Brethren, that dwell in their cities; between blood, and blood; between law, and commandement; ſtatutes, and judgments; ye ſhall even warn them, that they treſpaſs not a<g ref="char:EOLhyphen"/>gainſt the Lord.</hi> Thoſe criminal cauſes, between blood and blood, were certainly Ci<g ref="char:EOLhyphen"/>vil, as well as thoſe, which related to the statutes, and judgments, were Eccleſiaſti<g ref="char:EOLhyphen"/>cal: and yet, the offenders, in both caſes, are warned not to treſpaſs againſt the Lord.
+<pb n="7" facs="tcp:102376:6"/>
+Which plainly diſcovers God's intereſt in Judgment, be it of what kind or nature ſo<g ref="char:EOLhyphen"/>ever: whether it be Civil, or whether it be Eccleſiaſtical, God is the primary ſource and original of it: And whatſoever they be, that are intrusted with the executive parts of Judgment, <hi>they judge not for man, but for the Lord.</hi>
+            </p>
+            <p>This, I am ſure, is agreeable with the analogy of Scripture, which informs us, not only,<note n="f" place="margin">
+                  <hi>Iſ.</hi> 30.18.</note> 
+               <hi>that the Lord is a God of judgment,</hi> implying, that it is his nature, or unalterable property; or that<note n="g" place="margin">
+                  <hi>Pſ.</hi> 33.5. <hi>Iſ.</hi> 1.8.</note> 
+               <hi>he lov<g ref="char:EOLhyphen"/>eth judgment,</hi> to denote his affection; or<note n="h" place="margin">
+                  <hi>Deut.</hi> 32.4.</note> that <hi>all his ways are judgment,</hi> to diſ<g ref="char:EOLhyphen"/>cover his ſteadineſs, and uniformity in the exerciſe of it; or,<note n="i" place="margin">
+                  <hi>Pſ.</hi> 9.16.</note> that the <hi>Lord is known by the judgment which he ex<g ref="char:EOLhyphen"/>ecuteth,</hi> to ſhow how remarkable he is for this property; or, that<note n="k" place="margin">
+                  <hi>Job</hi> 27.33.</note> 
+               <hi>the Almighty is excellent in judgment,</hi> to demonſtrate, how far he tranſcends thoſe, that are moſt
+<pb n="8" facs="tcp:102376:7"/>
+critical amongſt men: but it alſo aſſures us, that <hi>the judgment is Gods;</hi>
+               <note n="l" place="margin">
+                  <hi>Deut.</hi> 1.17.</note> to teach us this leſſon, that, though the Miniſters and Executioners of Juſtice, may be varied ac<g ref="char:EOLhyphen"/>cording to the exigencies of times, and pla<g ref="char:EOLhyphen"/>ces; yet, whereſoever Judgment is faith<g ref="char:EOLhyphen"/>fully done, God is the director, author, and owner of it.</p>
+            <p>By that emanation of power from him<g ref="char:EOLhyphen"/>ſelf, whereby he communicated existence to the World, and all the Creatures that are therein, He became the abſolute Sovereign of the <g ref="char:V">Ʋ</g>niverſe; and did Himſelf, at firſt, exerciſe this juriſdiction, which I am ſpeak<g ref="char:EOLhyphen"/>ing of: As appears by his puniſhing of <hi>Cain,</hi> for murdering his Brother, before the Pro<g ref="char:EOLhyphen"/>mulgation of any Law to the contrary. And by his Commiſsioning <hi>Abraham</hi> to kill his Son; which made the real intentions of the Patriarch ſo to do, an act of Faith, and commendable obedience; which without that would have been down-right murder.</p>
+            <p>
+               <pb n="9" facs="tcp:102376:7"/>And tis as certain that he did, after<g ref="char:EOLhyphen"/>wards, devolve this power upon Man, when he delivered that Law to the ſons of <hi>Noah, whoſo ſheddeth man's blood, by man ſhall his blood be ſhed</hi>
+               <note n="m" place="margin">Gen. 9.6.</note>: which power he cannot be imagined to have committed promiſcuouſly to every man, who would be glad to be an avenger of blood, (becauſe that would have given authority to the moſt notorious murthers, and countenanced the vileſt outrages in the world,) but to perſons of knowledge, and fidelity, elected, com<g ref="char:EOLhyphen"/>miſſioned, and ſet apart for that Office. Since which time tis manifeſt he hath, in all Ages, ſelected choice perſons for the admi<g ref="char:EOLhyphen"/>niſtration of Juſtice: hath given to ſome the ſpirit of Government, and to others the ſpirit of Subjection; hath given to the Higher Powers the greatest encourage<g ref="char:EOLhyphen"/>ments, they are capable of, by his Promiſes, in caſe of diligent, faithful Obedience; and hath deterr'd Subjects from injuſtice,
+<pb n="10" facs="tcp:102376:8"/>
+and diſobedience, by the great movers of mankind, <hi>viz.</hi> Temporal, and Eternal Death.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label> How bold and couragious, how diligent and faithful, how reſolute, and unmoveable by the entreaties, threats, flatteries, col<g ref="char:EOLhyphen"/>logueings, and all other artifices of men, ſhould the conſideration hereof make all thoſe, who <hi>judge not for Man, but for the Lord?</hi> A wicked <hi>Baalam</hi> could ſay,<note n="n" place="margin">Numb. 22.18.</note> 
+               <hi>If</hi> Balak <hi>would give me his houſe full of ſilver and gold, I cannot go beyond the word, of the Lord, my God, to do leſs or more. Nehemiah</hi> could ſay, in the ſincerity and integrity of his heart, <hi>Should ſuch a man as I fly?</hi>
+               <note place="margin">Nehem. 6.11.</note> And it will well become every perſon, that is en<g ref="char:EOLhyphen"/>truſted with Judgment, to take up the like forms of ſpeech, and ſay; Should I he faint-hearted, or negligent? ſhould I be partial, or injust? ſhall I be drawn aſide by any ſinister reſpects, who judge not for
+<pb n="11" facs="tcp:102376:8"/>
+               <hi>Man,</hi> but for the <hi>Lord!</hi> Sure I am, they have as good a ground ſo to do; becauſe God's Commiſsion doth not only licenſe them to execute juſtice, and judgment, but it lays a neceſsity upon them, by making it their Duty.</p>
+            <p>And, on the other ſide, how ready to o<g ref="char:EOLhyphen"/>bey,<label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> and fearful to offend, ſhould it make all thoſe, who are ſubjected to their Power? How ſhould they be inclined to account their perſons Sacred, and to look upon them as Repreſentatives of God himſelf?</p>
+            <p>Yea, how thankful to God ſhould it <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>3</label> make all thoſe, who are under juriſdiction, for being ſo mindful of the Sons of Men? God is that High, and Holy one, who ſits upon the Circle of the Heavens, and be<g ref="char:EOLhyphen"/>holds all the Inhabitants of the Earth as Graſs-hoppers; all the Kingdoms of the World are very little, and inconſiderable things to Him: There can be no advan<g ref="char:EOLhyphen"/>tage accrue to God, by their felicity; nor
+<pb n="12" facs="tcp:102376:9"/>
+detriment, though all their counſels be turn'd to folly, and all Civil Government to Anarchy, and Confuſion: And yet he is pleaſed to contrive the good of All, and to fortify Civil Powers by his own Commiſ<g ref="char:EOLhyphen"/>ſion; that <hi>Judgment may run down like water, and Righteouſneſs like a mighty ſtream.</hi> Lord! <hi>What is man, that thou art ſo mindful of him, or the ſon of man, that thou doſt ſo regard him!</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>4</label> How effectually ſhould this convince all the Anarchical ſpirits amongſt us? and aſſure them, that Dominion is neither foun<g ref="char:EOLhyphen"/>ded in <hi>Power,</hi> nor <hi>Property,</hi> nor <hi>Com<g ref="char:EOLhyphen"/>pact,</hi> nor <hi>Grace,</hi> but in the great Autho<g ref="char:EOLhyphen"/>rity of the Abſolute Sovereign, and moſt gracious Governer of the whole World. Could it be founded in <hi>Power,</hi> Angels would have a right to deſtroy all Man<g ref="char:EOLhyphen"/>kind, Children their aged Parents; nay Thieves themſelves would have an undeni<g ref="char:EOLhyphen"/>able
+<pb n="13" facs="tcp:102376:9"/>
+title to the goods of the Impotent. Could it be founded in <hi>Property,</hi> it must be poſsible to ſuppoſe, that Man had a right to Sovereignty, before God <hi>gave him a dominion over the fiſh of the Sea, and the fowls of the Air, and over e<g ref="char:EOLhyphen"/>very living thing that moveth upon the Earth</hi>
+               <note n="o" place="margin">Gen. 1.28.</note>; which was long before he back'd it with that commandment, <hi>Thou ſhalt not ſteal.</hi>
+               <note n="p" place="margin">Exod. 20.25.</note> Could it be founded in <hi>Compact,</hi> 'twould have been at the plea<g ref="char:EOLhyphen"/>ſure of the People heretofore, and would be ſo ſtill, whether they would engage them<g ref="char:EOLhyphen"/>ſelves, or not: and they might have fru<g ref="char:EOLhyphen"/>ſtrated the great deſign of the Almighty, by their refuſal. Could it be founded in <hi>Grace,</hi> there muſt have been ſome better <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, than we now enjoy, whereby to diſtinguiſh between the Holy, and the Vile; or the crafty, hypocritical Pretenders would certainly go away with the greateſt ſhares of the Earth. But, being founded
+<pb n="14" facs="tcp:102376:10"/>
+in the power, and wiſdom of God; and, it being determined, that he is the primary ſource of Judgment; it will neceſſarily fol<g ref="char:EOLhyphen"/>low, That the ſubordinate Authors of Judgment are not, meerly, the <hi>ordinance of Man.</hi> They are ſo indeed, <hi>ſubjecti<g ref="char:EOLhyphen"/>vè,</hi> as the Offices of Juſtice are born by Men, not immediately by God himſelf, not hy Angels, or any other Creature. They are ſo <hi>objectivè,</hi> as Juſtice is imployed among men, they being the perſons who are to be reſtrained, or puniſhed by Laws. They are ſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, finally, as men are the perſons, who are to receive the benefits of Govern<g ref="char:EOLhyphen"/>ment. But yet, if we conſider it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, properly, and originally, as to its <hi>creation, ordination,</hi> and <hi>inſtitution;</hi> ſo it is Gods work; and ſo the higheſt Judges upon earth, judge <hi>not for Man, but for the Lord.</hi> That's the firſt Truth. I come now to the ſecond.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Truth </seg>II</label> That the Kings of the Earth are the
+<pb n="15" facs="tcp:102376:10"/>
+ſecondary ſprings and fountains of Juſtice: Next, and immediately under God, Judgment flows from them. And therefore the King, in the Text, gives his Command to the Judges, in theſe words, <hi>He ſaid to the Judges.</hi>
+            </p>
+            <p>It is impoſſible to conceive what dread and horror would befall Mankind, if God ſhould take the immediate exerciſe of Dominion, and execution of Juſtice into his own hands. When the whole congrega<g ref="char:EOLhyphen"/>tion of the <hi>Iſraelites</hi> were ſenſible of the terrible Concomitants of God's delivering the Law, it was their unanimous ſupplica<g ref="char:EOLhyphen"/>tion, that he would be pleaſed, from thence forwards, to ſpeak to them by the media<g ref="char:EOLhyphen"/>tion of his Servants.<note n="q" place="margin">Exod. 20.19.</note> 
+               <hi>Speak thou with us,</hi> ſay they to <hi>Moſes, and we will hear, but let not God ſpeak with us, leſt we dye.</hi>
+            </p>
+            <p>And it is as impoſſible to apprehend what confuſion would enter into the world,
+<pb n="16" facs="tcp:102376:11"/>
+if God ſhould, in his righteous judgment; deliver up Mankind to Anarchy.</p>
+            <p>Wherefore, to avoid theſe unſpeakable evils, God hath been pleaſed to make choice of fit perſons to be his own Vice-gerents a<g ref="char:EOLhyphen"/>mong men. <hi>Fitt,</hi> I ſay, becauſe adorn'd with wiſdom from above, and the ſpirit of Government: yea, the <hi>fitteſt</hi> of all others, becauſe God thinks them ſo: having ſaid, Prov. <hi>8.15. By me Kings reign, and Princes decree juſtice. By Me,</hi> i. e. by my <hi>authority,</hi> and <hi>appointment, ex<g ref="char:EOLhyphen"/>cluſively</hi> to all others. <hi>By Me Kings reign, and Princes decree juſtice,</hi> as it may be taken <hi>abſolutely,</hi> the Powers that are being ordained of God;<note n="r" place="margin">Rom. 13.1.</note> and as it may be taken <hi>with its moſt deſireable addi<g ref="char:EOLhyphen"/>taments,</hi> by him they reign <hi>juſtly, right<g ref="char:EOLhyphen"/>eouſly,</hi> and <hi>happily.</hi> This <hi>Promo<g ref="char:EOLhyphen"/>tion cometh neither from the Eaſt, nor from the Weſt, nor yet from the South; but God is the Judge, he put<g ref="char:EOLhyphen"/>teth
+<pb n="17" facs="tcp:102376:11"/>
+down one, and ſetteth up</hi>
+               <note n="ſ" place="margin">Pſ. 75.6, 7.</note> 
+               <hi>another.</hi>
+            </p>
+            <p>Theſe are the perſons to whom God hath been pleaſed to give his own Name,<note n="t" place="margin">Pſ. 82.6.</note> cal<g ref="char:EOLhyphen"/>ling them <hi>Gods;</hi> not only to mind them of the height of their Place, and the excellence of their Duty, but alſo to command Recep<g ref="char:EOLhyphen"/>tion, and beget Reverence and Eſteem for them among Men.</p>
+            <p>Theſe he hath ſtiled <hi>his own Miniſters,</hi>
+               <note n="y" place="margin">Rom. 13.6.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; which is always a title of great Honour, and Publick perfor<g ref="char:EOLhyphen"/>mance; being never applied to ſervants, or underlings, but to thoſe who are Eminent, and Glorious, either by Nature, Office, or both.</p>
+            <p>To Theſe he hath given the character of the <hi>Higher Powers</hi>
+               <note n="w" place="margin">Rom. 13.1.</note>: as if he deſigned, by that very act of his Providence, whereby he called them to be Rulers, etiher to ad<g ref="char:EOLhyphen"/>vance them ſo far above other men, as to place them among the Angels; or to ab<g ref="char:EOLhyphen"/>ſtract ſo much from their Humanity, as to
+<pb n="18" facs="tcp:102376:12"/>
+make them <hi>all Power</hi> for the neceſſary ends of Government.</p>
+            <p>Into their hands hath he put <hi>the ſword of Juſtice, and commanded them not to bear it in vain.</hi>
+               <note n="x" place="margin">Rom. 13.4.</note> As it is a <hi>ſword,</hi> tis deſign'd to cut, and wound, yea and to kill too, when occaſion requires it: and as it is the <hi>ſword of Juſtice,</hi> it is obliged to ſpare the innocent, and turn its edge or point on<g ref="char:EOLhyphen"/>ly towards evil doers: and whereas it is <hi>not to be uſed in vain,</hi> Puſillanimity, and fond Pitty are, by that conſideration, ex<g ref="char:EOLhyphen"/>cluded. It being the natural temper of Ju<g ref="char:EOLhyphen"/>ſtice, to give to every man his due, without being biaſsed by the perſons interests, rela<g ref="char:EOLhyphen"/>tions, or rewards of malefactors.</p>
+            <p>Of theſe He hath aſsured us, that they are <hi>his own Ordinances</hi>
+               <note n="y" place="margin">Rom. 13.1.2.</note> to convince all fanatical, and ſeditious ſpirits, that the Magiſtracy was not originally invented, or ordain'd by Men; that it is not at mans pleaſure to reject it, when they think fit
+<pb n="19" facs="tcp:102376:12"/>
+to withdraw their obedience, or to defend and maintain themſelves againſt <hi>God's or<g ref="char:EOLhyphen"/>dinance</hi> by private conſpiracies, or open reſiſtance, when ever natural ſtrength, or the combination of parties ſhall make them able.</p>
+            <p>Laſtly, unto theſe hath He obliged man<g ref="char:EOLhyphen"/>kind to ſubject themſelves, <hi>not onely for wrath, but for Conſcience ſake;</hi>
+               <note n="z" place="margin">Rom. 13.5.</note> i. e. not only for fear of being cut off by the ſword of Justice, but becauſe God hath, by his Command, made it their Duty; and threatned them with eternal Damnation, if they diſobey them.</p>
+            <p>Hence it is, that Almighty God, ſpeaking of <hi>Cyrus,</hi> the great <hi>Perſian</hi> Monarch, ſaith, <hi>He is my Shepherd, and ſhall perform all my pleaſure.</hi>
+               <note n="a" place="margin">Iſ. 44.28.</note> Hence our Saviour tells <hi>Pilate,</hi> the <hi>Roman</hi> Gover<g ref="char:EOLhyphen"/>ner among the Jews, <hi>Thou couldſt have no power againſt me, except it were given thee from above.</hi>
+               <note n="b" place="margin">Jo. 19.11.</note> Hence it is re<g ref="char:EOLhyphen"/>corded,
+<pb n="20" facs="tcp:102376:13"/>
+that the people found that the wiſdom of God was in <hi>Solomon,</hi> to do judgment<note n="c" place="margin">1 King. 3.28.</note>: and the Queen of <hi>Sheba,</hi> though an Heathen, attributed it to God's love to <hi>Iſrael,</hi> that he had ſet <hi>Solomon</hi> over that people, to do judgment, and ju<g ref="char:EOLhyphen"/>ſtice<note n="d" place="margin">2 Chron. 9.8.</note>.</p>
+            <p>The neceſſary Concluſions which flow from this Doctrine, I take to be theſe three.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſ. </seg>I</label> That it is not only <hi>lawful,</hi> and <hi>neceſ<g ref="char:EOLhyphen"/>ſary,</hi> but a part of the true Christian Re<g ref="char:EOLhyphen"/>ligion, to defie, and abjure the Pope's Su<g ref="char:EOLhyphen"/>premacy: who takes upon himſelf (as St. <hi>Peter</hi>'s Succeſſor) to have the ſole power of diſpoſing of all the Kingdoms of the Earth; to place the Crowns of Emperors upon their heads with his foot, and to kick them off again when he hath done. It be<g ref="char:EOLhyphen"/>ing moſt certain, that they, which hold immediately from God, are not at all be<g ref="char:EOLhyphen"/>holding to <hi>his Holineſs.</hi>
+            </p>
+            <p>
+               <pb n="21" facs="tcp:102376:13"/>That none but God can abſolve Subjects <label type="milestone">
+                  <seg type="milestoneunit">Concluſ. </seg>II</label> from their Allegiance, and Obedience, which they owe to their natural Lords. Neither the male-adminiſtration of Go<g ref="char:EOLhyphen"/>vernment, nor their own fears, and jealou<g ref="char:EOLhyphen"/>ſies, nor the decay of Trade, no, nor the ha<g ref="char:EOLhyphen"/>zard of Religion it ſelf, can juſtifie the acts of Rebellion. When God ſuffers ſuch things as theſe to fall out, he permits them for ends beſt known to Himſelf; but hath never yet, nor ever will, to the end of the world, give the leaſt countenance or toleration to Rebels.</p>
+            <p>They, to whom he hath given his Own Power, are accountable to none but Him<g ref="char:EOLhyphen"/>ſelf: And therefore thoſe, muſt needs be ſo far from deſerving the names of High-Courts of Juſtice, in which Gods Vicegerents are ſentenc'd, and condemn'd; that they are to be accounted the greateſt Violences to Hu<g ref="char:EOLhyphen"/>mane Society, and the Ordinance of God; as alſo, the greateſt uſurpations upon Sove<g ref="char:EOLhyphen"/>reignty,
+<pb n="22" facs="tcp:102376:14"/>
+and Judgment, that the Presby<g ref="char:EOLhyphen"/>terians, Jeſuites, and the Devil himſelf could ever boaſt of.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſ. </seg>III</label> That next, and immediately under God, we ought to be thankful to the King's Majeſty, for his most gracious Govern<g ref="char:EOLhyphen"/>ment: For cauſing good and wholeſome Laws to be enacted, and continue in force, for the Government of this Nation, where<g ref="char:EOLhyphen"/>in we live: And for ſuperadding the high favour of his Royal Promiſe to govern by Law, and to protect the true Proteſtant Re<g ref="char:EOLhyphen"/>ligion, as it is by Law eſtabliſhed, as well as the Properties of his Subjects, againſt all invaders and opponents. For theſe in<g ref="char:EOLhyphen"/>estimable benefits, all the grateful Addreſ<g ref="char:EOLhyphen"/>ſes of his Subjects, the greateſt inlargement of their hearts, and moſt intimate exulta<g ref="char:EOLhyphen"/>tions of their ſouls, are too mean returns. Nothing but unmoveable Loyalty to the King, Conformity to the Church, and active Obedience to his Laws, can bear any true
+<pb n="23" facs="tcp:102376:14"/>
+proportion to them. Certainly we have as great reaſon as any Nation under Hea<g ref="char:EOLhyphen"/>ven, to make an hearty and grateful uſe of that Exclamation of the Pſalmiſt,<note n="e" place="margin">
+                  <hi>Pſ.</hi> 144.15.</note> 
+               <hi>Hap<g ref="char:EOLhyphen"/>py are the people that are in ſuch a caſe; yea, bleſſed are the people who have the Lord for their God.</hi>
+            </p>
+            <p>That it is highly incumbent upon all <label type="milestone">
+                  <seg type="milestoneunit">Truth </seg>III</label> Judges to be moſt critically cautious, and careful. Both God and the King ſay to them, <hi>Take heed what you do.</hi>
+            </p>
+            <p>Caution, and Care, in ſuch high concerns as they are converſant withal, ſeem to me to include theſe four things.</p>
+            <list>
+               <item>
+                  <hi>1.</hi> Wiſdom, and Knowledge, Prudence, and Experience.</item>
+               <item>
+                  <hi>2.</hi> Courage, and braveneſs of ſpirit.</item>
+               <item>
+                  <hi>3.</hi> Vigilance, and Activity.</item>
+               <item>
+                  <hi>4.</hi> True Christian Piety.</item>
+            </list>
+            <p>The first will teach them how to take heed. The ſecond will make them dare to do it at all times, and in all cauſes. The third will
+<pb n="24" facs="tcp:102376:15"/>
+not ſuffer them to ſlip any opportunity, wherein they ought to be cautious. And the laſt will make them have reſpect, both to God and the King.</p>
+            <p n="1">
+               <hi>1.</hi> When Caution is thus recommended to the Judges, it is implyed, that they ought to be men of <hi>Wiſdom,</hi> and <hi>Knowledge, Prudence,</hi> and <hi>Experience,</hi> i. e. men of great natural abilities, and skilful in all thoſe Cauſes which ſhall come before them. They ought to have a general knowledge, and comprehenſion of the Laws, and ſtill to apply that knowledge to the greateſt variety of actions.</p>
+            <p>Without theſe, it will be impoſſible for them to take heed what they do, notwith<g ref="char:EOLhyphen"/>ſtanding they be, of themſelves, well-mind<g ref="char:EOLhyphen"/>ed, and willing to do justly: becauſe Igno<g ref="char:EOLhyphen"/>rance, as forward as it is, can hardly be more impudent, than it is weak: nor can Folly be more ſwift to diſcover its Preſump<g ref="char:EOLhyphen"/>tions, by its undertakings; than it is to
+<pb n="25" facs="tcp:102376:15"/>
+teſtifie its Impotency, by its miſcarriages. But when Prudence and Experience come to be ſuperadded to great natural Abilities, and acquired Accompliſhments, they will certainly prove the most excellent ingredi<g ref="char:EOLhyphen"/>ents out of which, Care, and Caution can be compounded.</p>
+            <p n="2">
+               <hi>2.</hi> It is implyed hereby, that they ſhould be endued <hi>with courage, and braveneſs of ſpirit,</hi> without which, Knowledge and Experience will be but in<g ref="char:EOLhyphen"/>ſignificant words, and ineffectual ſounds. Which may ſufficiently appear, from the conſideration of the perſons with whom they have to deal; the high matters, about which they are converſant; the rebukes and pu<g ref="char:EOLhyphen"/>niſhments they are ſubject too, from thoſe who are above them; the hatred and vio<g ref="char:EOLhyphen"/>lence of inferiours, as well as the obloquies and evil ſpeeches of the multitude: things, which no man in the world can be able to cope withall, except he be endued with an
+<pb n="26" facs="tcp:102376:16"/>
+extraordinary ſpirit. Mean ſouls are na<g ref="char:EOLhyphen"/>turally unfit for high imployments; becauſe Cowardice will certainly betray men to baſe and ignoble actions, 'twill make them afraid of righteouſneſs both in a Legal and Evan<g ref="char:EOLhyphen"/>gelical ſenſe, becauſe it wears a ſword.</p>
+            <p n="3">
+               <hi>3.</hi> Tis implied, that they ſhould be men of <hi>Vigilance,</hi> and <hi>Activity;</hi> induſtrious to diſcover the Truth in every Cauſe, and wil<g ref="char:EOLhyphen"/>ling to be guided by it when diſcovered. Though Justice it ſelf ought to be blind, yet the Miniſters thereof ought to be <hi>all eye;</hi> becauſe the great Governour of the World, who hath ſtiled them <hi>Gods,</hi> never made them Omniſcient: and though he calls them by his Own name, to add Veneration to their Authority; yet hath he frequently made it evident to themſelves, and the world, that they are but Men, by their Failings. It is the unparallel'd excellency of God that He is Omnipreſent, <hi>i. e.</hi> (as the Schools interpret it) in all places, at all times, by
+<pb n="27" facs="tcp:102376:16"/>
+the ſame indiviſible act: and undoubtedly he expects it from all thoſe, of whom he hath ſaid, <hi>ye are Gods,</hi> that they ſhould endeavour to aſsimilate themſelves to Him<g ref="char:EOLhyphen"/>ſelf, by a Politick <g ref="char:V">Ʋ</g>biquity. From whence tis evident, that ſuch high Officers are ob<g ref="char:EOLhyphen"/>liged to teſtifie their Fidelity by their Care, their Conſcience by their Circumſpection. Eſpecially, becauſe the lives and fortunes of their Brethren are frequently put into their hands; and tis poſſible for them, with<g ref="char:EOLhyphen"/>out ſuch caution, not only to do unrighte<g ref="char:EOLhyphen"/>ouſneſs in Judgment, but alſo to become the verieſt Cut-throats and Pick-pockets in the world.</p>
+            <p>Laſtly, it is implyed, that they ſhould be endued with true Chriſtian piety; becauſe that will be ſure to make them have reſpect to the commands, both of God, and the King: to the commands of God, for his own; to the commands of the King, for God's ſake. It will make them reverence
+<pb n="28" facs="tcp:102376:17"/>
+Justice, becauſe God is the Authour, and Archetype thereof; and twill incline them to moderate the rigour of Justice with leni<g ref="char:EOLhyphen"/>tives of Mercy, leſt they ſhould tranſgreſs the rules of true Chriſtian charity.</p>
+            <p>You ſee how neceſsary it is for them to be cautious, and careful, both from the nature of the thing it ſelf, and alſo from the Com<g ref="char:EOLhyphen"/>mands of God, and the King. To which I may, moſt juſtly, ſuperadde the conſidera<g ref="char:EOLhyphen"/>tion of the Age in which we live. This calls for the height of Wiſdom, the greateſt Abi<g ref="char:EOLhyphen"/>lities, the braveſt ſpirits, the moſt eminent Activity, and the beſt grounded Religion. Becauſe the pureſt Church, which Chriſt hath this day upon Earth, and the beſt of Monarchies, are deſign'd to be ſubver<g ref="char:EOLhyphen"/>ted and ruin'd by men of the moſt different Principles, and Intereſts. The Jeſuites abroad, and the Fanaticks at home, are cloſely engaged in undermining both.</p>
+            <p>The former will own no Allegiance to
+<pb n="29" facs="tcp:102376:17"/>
+the King, if it be inconſistent with the Su<g ref="char:EOLhyphen"/>premacy of the Pope; nor think the vileſt murthers or treaſons ſinful, if they will but promote their Hierarchy.</p>
+            <p>And the latter behave themſelves as if they were of different interests, both from the Church, and Kingdom, and it were chiefly incumbent upon them to ballance Prerogative with Property. They there<g ref="char:EOLhyphen"/>fore ſtudy the King's Laws, that they may be in a capacity to evade his Power; and pretend the Laws of God, to take away the force of the Laws of the King. They are ready, upon all occaſions, to plead the li<g ref="char:EOLhyphen"/>berty of the Subject, whenever it may prove a ſnare to the Government; and make uſe of thoſe Franchiſes and Liberties, which have been given by the gracious Kings of this Realm to their once loyal Subjects, to deprive their Succeſſors of their Sovereign Authority. They ſo well underſtand the inclinations of the giddy multitude, as, at
+<pb n="30" facs="tcp:102376:18"/>
+most of their Popular Elections, they de<g ref="char:EOLhyphen"/>ſign to chooſe ſuch Repreſentatives of the People, as are beſt qualified to reſtrain the ſpirit of Princes: as if they were (with the degenerating <hi>Romans</hi>) to ſet up the Tri<g ref="char:EOLhyphen"/>bunes of the People, with this only deſign, that they might beard the Conſular Dig<g ref="char:EOLhyphen"/>nity. That's the third Truth.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Truth </seg>IV</label> Give me leave to ſpeak, very briefly, to the laſt, and I ſhall immediately conclude. It is this: That all, who are duely advan<g ref="char:EOLhyphen"/>ced to ſuch Eminent places of Truſt and Dignity, have the greateſt reaſon in the world, to be faithful in the performance of their Duty; and that, becauſe <hi>God is with them in the Judgment.</hi>
+            </p>
+            <p>Tis certain, that Omnipreſence is an at<g ref="char:EOLhyphen"/>tribute inſeparable from the Divine nature: they that climb up into Heaven, and they that dig down into Hell; they that take the wings of the morning, and dwell in the ut<g ref="char:EOLhyphen"/>termoſt parts of the Sea; and they that co<g ref="char:EOLhyphen"/>ver
+<pb n="31" facs="tcp:102376:18"/>
+themſelves with the moſt opacous dark<g ref="char:EOLhyphen"/>neſs, can never get out of the ſight or com<g ref="char:EOLhyphen"/>pany of the Almighty. And yet God hath been pleaſed to make the promiſe of his <hi>ſpecial preſence</hi> an act of Grace, and that, whereby he would incourage his moſt eminent Servants in the performance of his own work. Hence we read <hi>Pſalm. 82.1. God ſtandeth in the Congregation of Princes, He is a Judge among Gods:</hi> and in the Text, <hi>He is with you in the Judgment.</hi>
+            </p>
+            <p>God is <hi>with them,</hi> and <hi>ſtands by them;</hi> not as an idle Spectator, or un<g ref="char:EOLhyphen"/>concern'd Auditor, but as one who gives them their beſt Commiſſion, will counte<g ref="char:EOLhyphen"/>nance, maintain, protect, and reward them for their lawful Acts: but will keep a ſe<g ref="char:EOLhyphen"/>vere book of remembrance againſt them, if ever they force Judgment, which ſhould run as as a pure and <hi>mighty ſtream,</hi> to ſpring up as<note n="f" place="margin">Hoſ. 10.4.</note> 
+               <hi>hemlock,</hi> or<note n="g" place="margin">Amos 5.7.</note> 
+               <hi>wormwood.</hi>
+            </p>
+            <p>
+               <pb n="32" facs="tcp:102376:19"/>My Lords, I don't queſtion, but that You are prepared, and reſolved to obey the King; and to <hi>judge, not for man,</hi> but <hi>for the Lord:</hi> and therefore I have good warrant to declare, that God will be <hi>with you in the Judgment.</hi>
+            </p>
+            <p>For which, and all other gracious vouch<g ref="char:EOLhyphen"/>ſafements to Mankind, let us render unto the Glorious and Eternal Trinity, God the Father, God the Son, and God the Holy Ghoſt, the only Wiſe and True God, all Honour, Obedience, and Adoration, now, and for ever. Amen.</p>
+            <trailer>THE END</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Pag. 2. l. 7. read <hi>making.</hi> p. 5. l. 10. r. <hi>for the Lord.</hi> l. 12. r. <hi>the Jews.</hi> p. 7. l. 5. r. <hi>whoſoever.</hi> p. 10. l. 2. r. <hi>viz. the fear of</hi> p. 18. l. 21. r. <hi>mens</hi> p. 21. l. 2. r. <hi>that Allegiance</hi> p. 23. l. 1. r. <hi>with them.</hi> p. 31. l. 11. r. <hi>Text we read.</hi>
+            </p>
+            <pb facs="tcp:102376:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
